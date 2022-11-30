@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EF_APM</string>
+    <string-array name="pokemons_array">
+        <item>Electrico</item>
+        <item>Roca</item>
+        <item>Agua</item>
+        <item>Fuego</item>
+        <item>Planta</item>
+    </string-array>
+    <string name="title_activity_poke_maps">PokeMapsActivity</string>
+</resources>
